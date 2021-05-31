@@ -1,0 +1,88 @@
+{
+"sunucuIsmi" : "",
+"sunucuUfakIsim": "",
+"Tag": "",
+"IkinciTag": "▪",
+"yasakTaglar": [],
+"sunucuDavetLinki": "discord.gg/",
+"embedUfakResim": "",
+"Kanallar": {
+    "kayitSonrasi": "",
+    "banLogKanali": "",
+    "kickLogKanali": "",
+    "jailLogKanali": "",
+    "supheliLogKanali": "",
+    "yasakliTagLogKanali": "",
+    "muteLogKanali": "",
+    "sesmuteLogKanali": "",
+    "uyarıLogKanali": "",
+    "tagLogKanali": "",
+    "chatKanali": "",
+    "kurallarKanal": "",
+    "mesajLogKanali": "",
+    "sesLogKanali": ""
+},
+
+"hosgeldinSistemi": {
+    "webhookID": "",
+    "webhookTOKEN": ""
+},
+"RolLog": {
+    "webhookID":"",
+    "webhookTOKEN":""
+},
+
+"Roller": {
+    "botcuRolu": "",
+    "kurucuRolu": "",
+    "altKurucuRolu": "",
+    "yonetimRolu": "",
+    "boosterRolu": "",
+    "muteRolu": "",
+    "jailRolu": "",
+    "supheliRolu": "",
+    "yasakliTagRolu": "",
+    "istatistikciRolleri": [""],
+    "botCommand": ["", ""],
+    "warnHammer": [""],
+    "muteHammer": [""],
+    "voiceMuteHammer": [""],
+    "jailHammer": [""],
+    "banHammer": [""],
+    "roleManager": [""],
+    "vipRolu": ""
+},
+"Yetenek": {
+    "vokalRolu": "",
+    "müzisyenRolu": "",
+    "telliRolu": "",
+    "yazılımcıRolu": "",
+    "tasarımcıRolu": "",
+    "ressamRolu": "",
+    "şairRolu": ""
+},
+"kayıtRolleri": {
+    "kayıtsızYapanRoller": [""],
+    "kayıtYapanRoller": [""],
+    "kayıtsızRolleri": [""],
+    "tagRolu": "",
+    "erkekRolleri": [""],
+    "kadinRolleri": [""]
+},
+
+"Emojiler": {
+    "tag": "",
+    "Onay": "",
+    "Iptal": "",
+    "afkOldu": "",
+    "afkOlmadi": "",
+    "hosgeldinGif1": "",
+    "hosgeldinGif2": "",
+    "hosgeldinGif3": "",
+    "hosgeldinGif4": "",
+    "hosgeldinGif5": "",
+    "susturuldu": "",
+    "susturmakaldirildi": "",
+    "jailatildi": ""
+}
+}
